@@ -1,5 +1,6 @@
 # LANGUAGE TRANSLATOR
-Using encoder decoder neural net architecture to translate french to english
+
+Using encoder decoder RNN model to tokenize input text in English language and translate it into French. Encoder model to generate a thought vector and passing the thought vector to decoder model. Thought vector providing initial state to GRU units used in the decoder which computes equivalent word tokens in another language. 
 
 
 ## FILE DESCRIPTION
