@@ -2,7 +2,7 @@
 Using encoder decoder neural net architecture to translate french to english
 
 
-##FILE DESCRIPTION
+## FILE DESCRIPTION
 
 * load_file.py is used to load dataset from computer's file system. I used europarl language dataset, link to which is http://www.statmt.org/europarl/v7/. You can also use http://www.statmt.org/europarl/.
 
